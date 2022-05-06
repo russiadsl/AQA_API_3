@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/133s24sm2p7cdvaa?svg=true)](https://ci.appveyor.com/project/russiadsl/aqa-api-3)
